@@ -17,6 +17,20 @@ header {
   align-items: center;
 }
 
+#logo {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+#logo h1{
+  margin-left: 5px;
+}
+
+#logo img{
+  height: 70px;
+}
+
 #header-wrapper {
   display: flex;
   justify-content: center;
@@ -42,7 +56,7 @@ nav {
   align-items: center;
   justify-content: flex-end;
   display: flex;
-  background: white;
+  background: black;
   padding: 35px;
 }
 
