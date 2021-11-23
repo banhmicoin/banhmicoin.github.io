@@ -1,1 +1,5 @@
-# banhmicoin.github.io
+# About
+
+BanhmiCoin [BANHMI]
+
+
