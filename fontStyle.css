@@ -1,4 +1,7 @@
 .bold {
-    font-weight: bold;
-  }
-  
+  font-weight: bold;
+}
+
+.weight-500 {
+  font-weight: 500;
+}
