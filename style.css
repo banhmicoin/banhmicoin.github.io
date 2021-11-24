@@ -127,6 +127,9 @@ button.connect-wallet {
   background-color: #ffa700;
   width: 250px;
   height: 250px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
 
 .nft-item-name {
@@ -191,7 +194,6 @@ button.connect-wallet {
   border-width: 0;
 }
 
-
 .pool-column {
   display: flex;
   flex-direction: column;
@@ -206,7 +208,7 @@ button.connect-wallet {
   border: 1px solid #e17000;
 }
 
-.pool-detail-btn{
+.pool-detail-btn {
   color: #f17100;
 }
 
@@ -224,4 +226,9 @@ button.connect-wallet {
 .token-title {
   display: flex;
   flex-direction: column;
+}
+
+.hidden-icon {
+  font-size: 100px;
+  color: #e17000;
 }
